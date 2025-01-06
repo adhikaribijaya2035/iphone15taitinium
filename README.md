@@ -18,7 +18,7 @@ JavaScript (Scroll effects, Lightbox)
 Clone the repo:
 bash
 Copy code
-git clone https://github.com/your-username/iphone-website
+[git clone https://github.com/your-username/iphone-website](https://github.com/binaya-adhikaree/iphone15taitinium.git)
 Open index.html in your browser.
 ✨ Why I Built This
 I built this project to practice frontend development and improve my skills in responsive design and animations. It's a fun way to replicate a high-quality website and understand real-world design practices.
